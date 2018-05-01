@@ -1,0 +1,116 @@
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Mixer WPF.exe.config
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Mixer WPF.exe
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Mixer WPF.pdb
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Microsoft.Win32.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\netstandard.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.AppContext.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Collections.Concurrent.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Collections.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Collections.NonGeneric.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Collections.Specialized.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.ComponentModel.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.ComponentModel.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Console.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Data.Common.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.Contracts.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.Debug.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.Process.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.StackTrace.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.Tools.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.TraceSource.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Diagnostics.Tracing.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Drawing.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Dynamic.Runtime.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Globalization.Calendars.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Globalization.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Globalization.Extensions.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.Compression.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.Compression.ZipFile.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.FileSystem.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.IsolatedStorage.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.Pipes.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Linq.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Linq.Expressions.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Linq.Parallel.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Linq.Queryable.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.Http.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.NameResolution.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.NetworkInformation.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.Ping.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.Requests.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.Security.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.Sockets.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.WebHeaderCollection.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.WebSockets.Client.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Net.WebSockets.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.ObjectModel.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Reflection.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Reflection.Extensions.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Reflection.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Resources.Reader.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Resources.ResourceManager.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Resources.Writer.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Extensions.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Handles.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.InteropServices.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Numerics.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Serialization.Json.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Claims.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Cryptography.Csp.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.Principal.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Security.SecureString.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Text.Encoding.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Text.Encoding.Extensions.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Text.RegularExpressions.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.Overlapped.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.Tasks.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.Thread.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.ThreadPool.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Threading.Timer.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.ValueTuple.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Xml.ReaderWriter.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Xml.XDocument.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Xml.XmlDocument.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Xml.XmlSerializer.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Xml.XPath.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\System.Xml.XPath.XDocument.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Mixer.Base.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Newtonsoft.Json.dll
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\bin\Debug\Newtonsoft.Json.xml
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.csprojResolveAssemblyReference.cache
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.exe.config
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\MainWindow.g.cs
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\App.g.cs
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF_MarkupCompile.cache
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF_MarkupCompile.lref
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\MainWindow.baml
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.g.resources
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer_WPF.Properties.Resources.resources
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.csproj.GenerateResource.cache
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.csproj.CoreCompileInputs.cache
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.csproj.CopyComplete
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.exe
+c:\users\mazed\source\repos\Mixer WPF\Mixer WPF\obj\Debug\Mixer WPF.pdb
